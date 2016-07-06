@@ -1,0 +1,16 @@
+{
+  "name": "js-boredom",
+  "version": "1.0.0",
+  "description": "Misc javascript solutions to things.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NiXXeD/js-boredom"
+  },
+  "main": "color_hex_puzzle.js",
+  "author": "Andy Christianson",
+  "license": "MIT",
+  "dependencies": {
+    "js-combinatorics": "^0.5.2",
+    "lodash": "^4.13.1"
+  }
+}
